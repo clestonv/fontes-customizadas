@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Road Rage";
+    src: url("../fonts/RoadRage.woff");
+}
+
+@font-face {
+    font-family: "Bring Heart";
+    src: url("../fonts/BringHeart.woff");
+}
+
+h1 {
+    font-size: 3em;
+    font-family: "Road Rage";
+    text-align: center;
+}
+
+p {
+    font-size: 3em;
+    font-family: "Bring Heart";
+    text-align: justify;
+    letter-spacing: 3px;
+}
